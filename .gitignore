@@ -1,0 +1,21 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+# This is a common name, your venv name might be different
+venv/
+
+# Editor/OS specific files
+.vscode/
+.env
+.idea/
+.DS_Store
+
+# Output files from tools
+dist/
+build/
+*.egg-info/
